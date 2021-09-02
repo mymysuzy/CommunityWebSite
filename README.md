@@ -1,6 +1,6 @@
 # 프로젝트 명
 
-Github token : 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
+
 
 ## 목차
 
