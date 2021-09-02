@@ -8,6 +8,7 @@ public class WebCurationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebCurationApplication.class, args);
+	
 	}
 
 }
